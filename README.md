@@ -1,6 +1,6 @@
 <!-- Banner Image (Optional) -->
 <p align="center">
-  <img src="https://scontent-bom2-2.cdninstagram.com/v/t51.2885-19/449174837_429279530081498_3996109467803654283_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-bom2-2.cdninstagram.com&_nc_cat=102&_nc_ohc=wr8iKwud3AwQ7kNvgGYsSJU&_nc_gid=b1f829144f9d4e089d8e630154071e34&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AYDsbfnLCETQ1A_0zcNKGkSY_DyZtf3g36ve1VJOC5fBAA&oe=67074904&_nc_sid=7d3ac5https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile!" alt="Banner Image">
+  <img src="https://scontent.fisb6-2.fna.fbcdn.net/v/t39.30808-1/468604027_2265704023830359_2420254800115500693_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_ohc=y5FybaiQog4Q7kNvgE-2r6H&_nc_oc=Adh4E99Z6R2-SwTee6oXwkCIL3fXtPcB8HckkFflNcepxEnuELc8VODRuYodcChkVwg&_nc_zt=24&_nc_ht=scontent.fisb6-2.fna&_nc_gid=AC8I8uDiQbAcFmwJPH361Cv&oh=00_AYDkF-uLitSrzxM72GC6zbyQbZBNM_NwzL8cMxYs3fnRiQ&oe=67A431D8">
 </p>
 
 <!-- Profile Title -->
@@ -48,11 +48,17 @@
 </p>
 
 ---
+<!-- Projects Section l) -->
+###Projects:
+<p align="center">
+Temp Storage
+<a href="https://tempstoragebyk.netlify.app/">Visit</a>
+</p>
 
 <!-- Stats Section (Optional) -->
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DannyK-739&show_icons=true&theme=radical" alt="Danyal's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danyalkhattak&show_icons=true&theme=radical" alt="Danyal's GitHub Stats">
 </p>
 
 ---
