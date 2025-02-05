@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://codegenai.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐CodeGen-AI%20Website-yellow?style=for-the-badge" alt="CodeGen AI">
+    <img src="https://img.shields.io/badge/🌐CodeGen%20AI%20Website-yellow?style=for-the-badge" alt="CodeGen AI">
   </a>
 </p>
 
