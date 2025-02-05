@@ -3,11 +3,13 @@
   <img src="https://scontent.fisb6-2.fna.fbcdn.net/v/t39.30808-1/468604027_2265704023830359_2420254800115500693_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_ohc=y5FybaiQog4Q7kNvgE-2r6H&_nc_oc=Adh4E99Z6R2-SwTee6oXwkCIL3fXtPcB8HckkFflNcepxEnuELc8VODRuYodcChkVwg&_nc_zt=24&_nc_ht=scontent.fisb6-2.fna&_nc_gid=AC8I8uDiQbAcFmwJPH361Cv&oh=00_AYDkF-uLitSrzxM72GC6zbyQbZBNM_NwzL8cMxYs3fnRiQ&oe=67A431D8" width="200px">
 </p>
 
-<!-- Profile Title with Animated Text -->
+<!-- Profile Title -->
 <h1 align="center">
-  <span style="font-size: 30px;">Hi 👋, I'm Danyal Khattak</span>
+  Hi 👋, I'm Danyal Khattak
 </h1>
-<h3 align="center">Front-End Developer | WordPress Developer | Web & Mobile App Designer | Android and Windows Hacker</h3>
+<h3 align="center">
+  Front-End Developer | WordPress Developer | Web & Mobile App Designer | Android and Windows Hacker
+</h3>
 
 <!-- Social Media Links -->
 <p align="center">
@@ -24,13 +26,13 @@
 ### 👨‍💻 About Me:
 <p align="center">
   <img src="https://media.giphy.com/media/d2r1r4z6b0t7h1fq/giphy.gif" width="40" alt="about me icon">
-  <br>
-  - 🔭 I’m currently working on **front-end development** projects using **HTML, CSS, JavaScript**, and **React**.<br>
-  - 🌱 I’m learning more about **Web and Mobile App Design** to create stunning user interfaces.<br>
-  - 💼 I’m also skilled in **WordPress development**, creating responsive websites for clients.<br>
-  - 💬 Ask me about **UI/UX design**, **web development**, **WordPress customizations**, and **mobile app design**.<br>
-  - ⚡ Fun fact: I'm passionate about bringing **creativity** and **functionality** together in every project.
 </p>
+
+- 🔭 I’m currently working on front-end development projects using HTML, CSS, JavaScript, and React.
+- 🌱 I’m learning more about Web and Mobile App Design to create stunning user interfaces.
+- 💼 I’m also skilled in WordPress development, creating responsive websites for clients.
+- 💬 Ask me about UI/UX design, web development, WordPress customizations, and mobile app design.
+- ⚡ Fun fact: I'm passionate about bringing creativity and functionality together in every project.
 
 ---
 
@@ -61,7 +63,7 @@
 </p>
 
 <p align="center">
-  <em><strong>TempStorage</strong> - A quick and secure online file storage solution for your needs.</em>
+  TempStorage - A quick and secure online file storage solution for your needs.
 </p>
 
 ---
@@ -74,4 +76,3 @@
 ---
 
 ### 🚀 "الظلام، الصمت، الوحدة، نصرت 🖤." – Danyal Khattak
-
