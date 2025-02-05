@@ -12,14 +12,8 @@
   <a href="https://www.linkedin.com/in/dannyk739/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/Danyalkhattak" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white">
-  </a>
   <a href="https://www.instagram.com/dannyk_739/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white">
-  </a>
-  <a href="http://bit.ly/4hiGMkJ" target="_blank">
-    <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=flat&logo=buy-me-a-coffee&logoColor=black">
   </a>
 </p>
 
