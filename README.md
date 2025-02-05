@@ -1,29 +1,26 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://scontent.fisb6-2.fna.fbcdn.net/v/t39.30808-1/468604027_2265704023830359_2420254800115500693_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_ohc=y5FybaiQog4Q7kNvgE-2r6H&_nc_oc=Adh4E99Z6R2-SwTee6oXwkCIL3fXtPcB8HckkFflNcepxEnuELc8VODRuYodcChkVwg&_nc_zt=24&_nc_ht=scontent.fisb6-2.fna&_nc_gid=AC8I8uDiQbAcFmwJPH361Cv&oh=00_AYDkF-uLitSrzxM72GC6zbyQbZBNM_NwzL8cMxYs3fnRiQ&oe=67A431D8" width="100%">
+  <img src="https://scontent.fisb6-2.fna.fbcdn.net/v/t39.30808-1/468604027_2265704023830359_2420254800115500693_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_ohc=y5FybaiQog4Q7kNvgE-2r6H&_nc_oc=Adh4E99Z6R2-SwTee6oXwkCIL3fXtPcB8HckkFflNcepxEnuELc8VODRuYodcChkVwg&_nc_zt=24&_nc_ht=scontent.fisb6-2.fna&_nc_gid=AC8I8uDiQbAcFmwJPH361Cv&oh=00_AYDkF-uLitSrzxM72GC6zbyQbZBNM_NwzL8cMxYs3fnRiQ&oe=67A431D8" width="200px">
 </p>
 
-<!-- Profile Title with Bounce Animation on "Hi 👋" -->
+<!-- Profile Title with Animated Text -->
 <h1 align="center">
-  <span style="animation: bounce 2s infinite;">
-    Hi 👋, I'm <a href="https://www.linkedin.com/in/dannyk739/" target="_blank">Danyal Khattak</a>
-  </span>
+  <span style="font-size: 30px;">Hi 👋, I'm Danyal Khattak</span>
 </h1>
 <h3 align="center">Front-End Developer | WordPress Developer | Web & Mobile App Designer | Android and Windows Hacker</h3>
 
-<!-- Social Media Links with animations -->
+<!-- Social Media Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dannyk739/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" width="150">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" width="100">
   </a>
   <a href="https://www.instagram.com/dannyk_739/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white" width="150">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white" width="100">
   </a>
 </p>
 
 ---
 
-<!-- About Me Section with GIFs and effects -->
 ### 👨‍💻 About Me:
 <p align="center">
   <img src="https://media.giphy.com/media/d2r1r4z6b0t7h1fq/giphy.gif" width="40" alt="about me icon">
@@ -37,31 +34,29 @@
 
 ---
 
-<!-- Skills Section with Animated Icons -->
 ### 🛠️ Skills:
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" width="120">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" width="120">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="120">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="120">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" width="120">
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" width="120">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" width="120">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" width="100">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" width="100">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="100">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="100">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" width="100">
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" width="100">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" width="100">
 </p>
 
 ---
 
-<!-- Projects Section with Interactive Elements -->
 ### Projects:
 <p align="center">
   <a href="https://tempstoragebyk.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐Visit%20Website-blue?style=for-the-badge" alt="TempStorage">
+    <img src="https://img.shields.io/badge/🌐TempStorage%20Website-blue?style=for-the-badge" alt="TempStorage">
   </a>
 </p>
 
 <p align="center">
   <a href="https://tempstoragebyk.netlify.app/" target="_blank">
-    <img src="https://via.placeholder.com/600x400.gif?text=TempStorage+Project+Preview" alt="TempStorage Preview" width="90%" />
+    <img src="https://via.placeholder.com/600x400.gif?text=TempStorage+Project+Preview" alt="TempStorage Preview" width="80%">
   </a>
 </p>
 
@@ -71,29 +66,12 @@
 
 ---
 
-<!-- GitHub Stats Section with Animation -->
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danyalkhattak&show_icons=true&theme=radical&hide_title=true" alt="Danyal's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danyalkhattak&show_icons=true&theme=radical" alt="Danyal's GitHub Stats">
 </p>
 
 ---
 
-<!-- Fun Message or Quote with Animation -->
-<p align="center">
-  🚀 "الظلام، الصمت، الوحدة، نصرت 🖤." – Danyal Khattak
-</p>
+### 🚀 "الظلام، الصمت، الوحدة، نصرت 🖤." – Danyal Khattak
 
----
-
-<!-- Add this style block to enable animation -->
-<style>
-  @keyframes bounce {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-15px);
-    }
-  }
-</style>
