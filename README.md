@@ -46,8 +46,7 @@
 <!-- Projects Section l) -->
 ### Projects:
 <p align="center">
-Temp Storage
-<a href="https://tempstoragebyk.netlify.app/">Visit</a>
+[![Temp Storage](https://img.shields.io/badge/📥Download%20Now-blue?style=for-the-badge)](https://tempstoragebyk.netlify.app/)
 </p>
 
 ---
