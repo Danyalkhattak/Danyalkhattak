@@ -43,7 +43,7 @@
 ---
 
 <!-- Projects Section l) -->
-### Projects:
+### Projects (Database Not Working):
 <p align="center">
   <a href="https://tempstoragebyk.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐TempStorage%20Website-blue?style=for-the-badge" alt="TempStorage">
@@ -62,9 +62,7 @@
 
 <!-- Stats Section (Optional) -->
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danyalkhattak&show_icons=true&theme=radical" alt="Danyal's GitHub Stats">
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danyalkhattak&show_icons=true&theme=radical)
 
 ---
 
