@@ -62,7 +62,9 @@
 
 <!-- Stats Section (Optional) -->
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danyalkhattak&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danyalkhattak&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
 ---
 
