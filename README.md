@@ -42,23 +42,23 @@
 
 ---
 
-<!-- Projects Section l) -->
-### Projects (Database Not Working):
-<p align="center">
-  <a href="https://tempstoragebyk.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐TempStorage%20Website-blue?style=for-the-badge" alt="TempStorage">
-  </a>
-</p>
+<!-- Projects Section -->
+## 🚀 Projects
+
+### Xirea
 
 <p align="center">
-  <a href="https://codegenai.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐CodeGen%20AI%20Website-yellow?style=for-the-badge" alt="CodeGen AI">
-  </a>
+  <a href="https://github.com/Danyalkhattak/xirea" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Visit Xirea">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Danyalkhattak/xirea/releases" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️%20Download%20APK-000000?style=for-the-badge&logo=android&logoColor=white" alt="Download Xirea">
+  </a>
 </p>
-
-
 
 ---
+
 
 <!-- Stats Section (Optional) -->
 ### 📊 GitHub Stats:
